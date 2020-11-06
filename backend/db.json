@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 3.89
+    },
+    {
+      "id": 2,
+      "name": "Macbook Pro ",
+      "price": 14289.89
+    },
+    {
+      "id": 3,
+      "name": "AMD Ryzen 5 3600X",
+      "price": 1099.89
+    }
+  ]
+}
